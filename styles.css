@@ -1,0 +1,23 @@
+body{
+    background-color:lavenderblush;
+}
+hr{
+     
+    border-style:none;
+    border-top: dotted;
+    border-color:black;
+    border-width: 5px;
+    height: 0px;
+    width:10%
+}
+img{
+    
+    width: 200px;
+    height: 200px;
+    border: black;
+    
+}
+.sign{
+    width: 100px;
+    height: 100px;
+}
